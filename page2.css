@@ -8,3 +8,18 @@ body {
     overflow: hidden;
     color: #D9B26D;
 }
+
+.history {
+    background-color: #7BA17A80;
+    color: #F7F3EA;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    border-color:#D9B26D;
+    border-width: 5px;
+    text-align: center;
+}
+
+hr {
+    border-color: #F2BE3D;
+}
