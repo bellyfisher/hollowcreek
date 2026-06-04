@@ -1,0 +1,10 @@
+body {
+    background-image: url('flannel.png');
+    background-repeat: repeat;
+}
+
+.navbar {
+    background-color: white;
+    overflow: hidden;
+    color: #D9B26D;
+}
