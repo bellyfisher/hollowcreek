@@ -1,0 +1,60 @@
+body {
+    background-image: url('wheat.png');
+    background-repeat: repeat;
+}
+
+navbar {
+    background-color: white;
+    overflow: hidden;
+    color: #D9B26D;
+}
+
+.title {
+    color: #8C2D27;
+    text-align: center;
+      font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-weight: 400px;
+  font-style: normal;
+}
+
+.Products {
+    background-color: #D9B26D80;
+    padding: 20px;
+    margin: 20px auto;
+    border-radius: 10px;
+}
+
+.Products .row {
+    gap: 1.5rem;
+}
+
+.col-4 {
+    background-color: #1F4A2E;
+    color: #D9B26D;
+    padding: 30px;
+    margin: 0;
+    border-radius: 18px;
+    border: 1px solid rgba(217, 178, 109, 0.2);
+    box-shadow: 0 12px 26px rgba(0, 0, 0, 0.16);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-weight: 400px;
+  font-style: normal;
+}
+
+.col-4:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 18px 36px rgba(0, 0, 0, 0.22);
+}
+
+.col-4 img {
+    border-radius: 12px;
+    margin-bottom: 1rem;
+}
+
+.col-4 p {
+    line-height: 1.6;
+    margin-bottom: 0;
+}

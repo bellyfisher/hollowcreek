@@ -13,13 +13,40 @@ body {
     background-color: #7BA17A80;
     color: #F7F3EA;
     padding: 20px;
-    margin: 20px;
+    margin: 20px auto;
+    max-width: 850px;
     border-radius: 10px;
     border-color:#D9B26D;
     border-width: 5px;
     text-align: center;
+      font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 400px;
+  font-style: normal;
 }
 
 hr {
     border-color: #F2BE3D;
+}
+
+.row {
+    background-color: #7BA17A80;
+    color: #F7F3EA;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 850px;
+    border-radius: 10px;
+    border-color:#D9B26D;
+    border-width: 5px;
+    font-family: "Source Sans 3", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200px;
+  font-style: normal;
+}
+
+.row img {
+    border-radius: 10px;
+    border-color:#D9B26D;
+    border-width: 2px;
+    border-style: solid;
 }
