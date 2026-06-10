@@ -19,4 +19,6 @@ main img {
     border-radius: 8px;
     border-color: burlywood;
     border-width: 3px;
+    width: 200px;
+    text-align: center;
 }
