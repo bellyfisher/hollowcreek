@@ -35,6 +35,11 @@ body {
         margin: 0 auto;
         padding-bottom: 20px;
     }
+    .carousel img {
+        width: 100%;
+        height: auto;
+        border-radius: 10px;
+    }
 
 .map {
     background-color: #1F4A2E80;
