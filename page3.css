@@ -6,7 +6,10 @@ body {
 
 .navbar {
     background-color: white;
-    color: #D9B26D;
+}
+
+nav a {
+    color: #D9B26D !important;
 }
 
 .title {

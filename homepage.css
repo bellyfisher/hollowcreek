@@ -1,14 +1,32 @@
 body {
-    background-color: #7ba17a;
+    background-color: #7ba17a !important;
 }
+
+nav {
+    background-color: white !important;
+}
+
+nav a {
+    color: #D9B26D !important;
+}
+
 main img {
-    max-width: 100%;
+    width: 60%;
     height: auto;
     display: block;
     margin-top: 50px;
     margin-left: auto;
     margin-right: auto;
     align-items: center;
+    border-radius: 25px;
+}
+h1 {
+    padding-top: 20px;
+color: #53120c !important;
+font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 400px;
+  font-style: normal;
 }
 
 .btn.btn-light.cta-btn {
@@ -17,8 +35,15 @@ main img {
     padding: 14px 28px;
     font-size: 1.25rem;
     border-radius: 8px;
-    border-color: burlywood;
+    border-color: #D9B26D !important;
     border-width: 3px;
     width: 200px;
     text-align: center;
+}
+
+h4 {
+    font-family: "Lora", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #53120c !important;
 }

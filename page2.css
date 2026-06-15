@@ -6,6 +6,8 @@ body {
 .navbar {
     background-color: white;
     overflow: hidden;
+}
+nav a {
     color: #D9B26D !important;
 }
 

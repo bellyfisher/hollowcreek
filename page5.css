@@ -14,6 +14,10 @@ body {
     color: #D9B26D !important;
 }
 
+nav a {
+    color: #D9B26D !important;
+}
+
 .events {
     background-color: #D9B26D80;
     padding: 20px;

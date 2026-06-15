@@ -9,6 +9,10 @@ body {
     color: #D9B26D !important;
 }
 
+nav a {
+    color: #D9B26D !important;
+}
+
 .title {
     text-align: center;
     margin-top: 50px;
@@ -55,7 +59,7 @@ button.farm-btn:hover {
 div.col-6 img {
     width: 100%;
     height: auto;
-    border-radius: 10px;
+    border-radius: 20px !important;
     margin-top: 20px;
 }
 
@@ -65,5 +69,5 @@ div.col-6 img {
     margin-top: 30px;
     background-color: #8C2D2780;
     padding: 20px;
-    border-radius: 10px;
+    border-radius: 10px !important;
 }
